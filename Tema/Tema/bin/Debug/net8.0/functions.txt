@@ -1,3 +1,0 @@
-int addIntegers(...);
-float divideIntegers(...);
-int main(...);

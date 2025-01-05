@@ -1,0 +1,53 @@
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\obj\Debug\net8.0\Tema.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\obj\Debug\net8.0\Tema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\obj\Debug\net8.0\Tema.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\obj\Debug\net8.0\Tema.AssemblyInfo.cs
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\obj\Debug\net8.0\Tema.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\bin\Debug\net8.0\Tema.exe
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\bin\Debug\net8.0\Tema.deps.json
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\bin\Debug\net8.0\Tema.runtimeconfig.json
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\bin\Debug\net8.0\Tema.dll
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\bin\Debug\net8.0\Tema.pdb
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\bin\Debug\net8.0\Antlr4.Runtime.Standard.dll
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\obj\Debug\net8.0\Tema.csproj.Up2Date
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\obj\Debug\net8.0\Tema.dll
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\obj\Debug\net8.0\refint\Tema.dll
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\obj\Debug\net8.0\Tema.pdb
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\obj\Debug\net8.0\Tema.genruntimeconfig.cache
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\Tema\Tema\obj\Debug\net8.0\ref\Tema.dll
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\bin\Debug\net8.0\Tema.exe
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\bin\Debug\net8.0\Tema.deps.json
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\bin\Debug\net8.0\Tema.runtimeconfig.json
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\bin\Debug\net8.0\Tema.dll
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\bin\Debug\net8.0\Tema.pdb
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\bin\Debug\net8.0\Antlr4.Runtime.Standard.dll
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.AssemblyInfo.cs
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.sourcelink.json
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.csproj.Up2Date
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.dll
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\obj\Debug\net8.0\refint\Tema.dll
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.pdb
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.genruntimeconfig.cache
+C:\Users\andre\Desktop\Facultate Informatica\Licenta\Anul 2\Semestrul 1\Limbaje Formale si Compilatoare\Tema Obligatorii\Tema 2\MiniCompiler\Tema\Tema\obj\Debug\net8.0\ref\Tema.dll
+D:\MiniCompiler\Tema\Tema\bin\Debug\net8.0\Tema.exe
+D:\MiniCompiler\Tema\Tema\bin\Debug\net8.0\Tema.deps.json
+D:\MiniCompiler\Tema\Tema\bin\Debug\net8.0\Tema.runtimeconfig.json
+D:\MiniCompiler\Tema\Tema\bin\Debug\net8.0\Tema.dll
+D:\MiniCompiler\Tema\Tema\bin\Debug\net8.0\Tema.pdb
+D:\MiniCompiler\Tema\Tema\bin\Debug\net8.0\Antlr4.Runtime.Standard.dll
+D:\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.csproj.AssemblyReference.cache
+D:\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.AssemblyInfoInputs.cache
+D:\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.AssemblyInfo.cs
+D:\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.csproj.CoreCompileInputs.cache
+D:\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.sourcelink.json
+D:\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.csproj.Up2Date
+D:\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.dll
+D:\MiniCompiler\Tema\Tema\obj\Debug\net8.0\refint\Tema.dll
+D:\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.pdb
+D:\MiniCompiler\Tema\Tema\obj\Debug\net8.0\Tema.genruntimeconfig.cache
+D:\MiniCompiler\Tema\Tema\obj\Debug\net8.0\ref\Tema.dll
