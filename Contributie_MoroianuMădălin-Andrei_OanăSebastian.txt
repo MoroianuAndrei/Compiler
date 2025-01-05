@@ -1,0 +1,11 @@
+Limbaje Formale si Compilatoare
+
+Moroianu Madalin-Andrei
+Oana Sebastian
+Grupa: 10LF233
+
+Tema 2
+
+Contributie:
+Moroianu Madalin-Andrei: - cod ANTLR, executie
+Oana Sebastian - semnalarea erorilor, executie

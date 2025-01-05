@@ -1,0 +1,3 @@
+int addIntegers(int first, int second);
+float divideIntegers(int first, int second);
+int main();

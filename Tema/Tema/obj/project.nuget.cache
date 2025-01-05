@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nSmR7EDZKyg=",
+  "dgSpecHash": "v6jacvHdVGA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 2\\Semestrul 1\\Limbaje Formale si Compilatoare\\Tema Obligatorii\\Tema 2\\MiniCompiler\\Tema\\Tema\\Tema.csproj",
+  "projectFilePath": "D:\\Compiler\\Tema\\Tema\\Tema.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\andre\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+    "C:\\Users\\Sebi\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
   ],
   "logs": []
 }

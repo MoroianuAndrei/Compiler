@@ -1,1 +1,1 @@
-globalVariable = 1567
+globalVariable = 15.67

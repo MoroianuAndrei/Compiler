@@ -1,5 +1,5 @@
 intaddIntegers(intfirst,intsecond){returnfirst+second;}
 floatdivideIntegers(intfirst,intsecond){if(second==0){return0;}returnfirst/second;}
 doubleglobalVariable=15.67;
-intmain(){intmyFirstVariable=17;intmySecondVariable=45;intmyThirdVariable=3;for(inti=0;i<myThirdVariable;++i){myFirstVariable+=i;}stringmyString="";if(myFirstVariable>=mySecondVariable&&globalVariable!=16.54){myString="Both conditions are true";}else{myString="At least one of the conditions is false";inttemp=myFirstVariable+5;}myThirdVariable=addIntegers(myFirstVariable,mySecondVariable);floatmyFloat=divideIntegers(myThirdVariable,myFirstVariable);return0;}
+intmain(){intmyFirstVariable="daa";intmySecondVariable=45;intmyThirdVariable=3;for(inti=0;i<myThirdVariable;++i){myFirstVariable+=i;}stringmyString="";if(myFirstVariable>=mySecondVariable&&globalVariable!=16.54){myString="Both conditions are true";}else{myString="At least one of the conditions is false";inttemp=myFirstVariable+5;}myThirdVariable=addIntegers(myFirstVariable,mySecondVariable);floatmyFloat=divideIntegers(myThirdVariable,myFirstVariable);return0;}
 <EOF>
