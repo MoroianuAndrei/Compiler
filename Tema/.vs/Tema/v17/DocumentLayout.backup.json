@@ -1,66 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Compiler\\Tema\\",
+  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 2\\Semestrul 1\\Limbaje Formale si Compilatoare\\Tema Obligatorii\\Tema 2\\Compiler\\Tema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\program.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\program.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\output\\errors.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\output\\errors.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\basiclanguage.tokens||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\basiclanguage.tokens||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\basiclanguagelexer.tokens||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\basiclanguagelexer.tokens||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\basiclanguage.g4||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\basiclanguage.g4||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\output\\control_structures.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\output\\control_structures.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\output\\tokens.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\output\\tokens.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\output\\variables.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|c:\\users\\andre\\desktop\\facultate informatica\\licenta\\anul 2\\semestrul 1\\limbaje formale si compilatoare\\tema obligatorii\\tema 2\\compiler\\tema\\tema\\output\\variables.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\output\\variables.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\output\\functions.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\output\\functions.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\basiclanguageprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\basiclanguageprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\basiclanguagevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\basiclanguagevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\basiclanguageparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\basiclanguageparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\basiclanguagebasevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\basiclanguagebasevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|d:\\compiler\\tema\\tema\\basiclanguagelexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\basiclanguagelexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|c:\\users\\andre\\desktop\\facultate informatica\\licenta\\anul 2\\semestrul 1\\limbaje formale si compilatoare\\tema obligatorii\\tema 2\\compiler\\tema\\tema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A070E209-9BA6-439B-918C-8CCDACD732BD}|Tema\\Tema.csproj|solutionrelative:tema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,207 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BasicLanguageBaseVisitor.cs",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\BasicLanguageBaseVisitor.cs",
-              "RelativeDocumentMoniker": "Tema\\BasicLanguageBaseVisitor.cs",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\BasicLanguageBaseVisitor.cs",
-              "RelativeToolTip": "Tema\\BasicLanguageBaseVisitor.cs",
-              "ViewState": "AgIAAOkAAAAAAAAAAAAowP4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:46:22.966Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BasicLanguageLexer.cs",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\BasicLanguageLexer.cs",
-              "RelativeDocumentMoniker": "Tema\\BasicLanguageLexer.cs",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\BasicLanguageLexer.cs",
-              "RelativeToolTip": "Tema\\BasicLanguageLexer.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:46:22.14Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BasicLanguageParser.cs",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\BasicLanguageParser.cs",
-              "RelativeDocumentMoniker": "Tema\\BasicLanguageParser.cs",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\BasicLanguageParser.cs",
-              "RelativeToolTip": "Tema\\BasicLanguageParser.cs",
-              "ViewState": "AgIAAAcFAAAAAAAAAAAywEIFAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:46:21.378Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BasicLanguageVisitor.cs",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\BasicLanguageVisitor.cs",
-              "RelativeDocumentMoniker": "Tema\\BasicLanguageVisitor.cs",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\BasicLanguageVisitor.cs",
-              "RelativeToolTip": "Tema\\BasicLanguageVisitor.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T13:50:55.486Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BasicLanguageProgram.cs",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\BasicLanguageProgram.cs",
-              "RelativeDocumentMoniker": "Tema\\BasicLanguageProgram.cs",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\BasicLanguageProgram.cs",
-              "RelativeToolTip": "Tema\\BasicLanguageProgram.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAYwLEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T13:46:02.239Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "program.txt",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\program.txt",
-              "RelativeDocumentMoniker": "Tema\\program.txt",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\program.txt*",
-              "RelativeToolTip": "Tema\\program.txt*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Title": "variables.txt",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 2\\Semestrul 1\\Limbaje Formale si Compilatoare\\Tema Obligatorii\\Tema 2\\Compiler\\Tema\\Tema\\output\\variables.txt",
+              "RelativeDocumentMoniker": "Tema\\output\\variables.txt",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 2\\Semestrul 1\\Limbaje Formale si Compilatoare\\Tema Obligatorii\\Tema 2\\Compiler\\Tema\\Tema\\output\\variables.txt",
+              "RelativeToolTip": "Tema\\output\\variables.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-05T10:32:42.189Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-01-11T17:48:59.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BasicLanguage.tokens",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\BasicLanguage.tokens",
-              "RelativeDocumentMoniker": "Tema\\BasicLanguage.tokens",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\BasicLanguage.tokens",
-              "RelativeToolTip": "Tema\\BasicLanguage.tokens",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T16:11:48.227Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BasicLanguageLexer.tokens",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\BasicLanguageLexer.tokens",
-              "RelativeDocumentMoniker": "Tema\\BasicLanguageLexer.tokens",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\BasicLanguageLexer.tokens",
-              "RelativeToolTip": "Tema\\BasicLanguageLexer.tokens",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T16:11:54.858Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\Program.cs",
-              "RelativeDocumentMoniker": "Tema\\Program.cs",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\Program.cs",
-              "RelativeToolTip": "Tema\\Program.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAuwIcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T18:53:29.338Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "control_structures.txt",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\output\\control_structures.txt",
-              "RelativeDocumentMoniker": "Tema\\output\\control_structures.txt",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\output\\control_structures.txt",
-              "RelativeToolTip": "Tema\\output\\control_structures.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-05T17:48:13.833Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BasicLanguage.g4",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\BasicLanguage.g4",
-              "RelativeDocumentMoniker": "Tema\\BasicLanguage.g4",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\BasicLanguage.g4",
-              "RelativeToolTip": "Tema\\BasicLanguage.g4",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAAAL0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T15:46:34.942Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "tokens.txt",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\output\\tokens.txt",
-              "RelativeDocumentMoniker": "Tema\\output\\tokens.txt",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\output\\tokens.txt",
-              "RelativeToolTip": "Tema\\output\\tokens.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-05T17:57:42.292Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "variables.txt",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\output\\variables.txt",
-              "RelativeDocumentMoniker": "Tema\\output\\variables.txt",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\output\\variables.txt",
-              "RelativeToolTip": "Tema\\output\\variables.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-05T17:57:46.374Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "functions.txt",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\output\\functions.txt",
-              "RelativeDocumentMoniker": "Tema\\output\\functions.txt",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\output\\functions.txt",
-              "RelativeToolTip": "Tema\\output\\functions.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-05T17:57:52.114Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "errors.txt",
-              "DocumentMoniker": "D:\\Compiler\\Tema\\Tema\\output\\errors.txt",
-              "RelativeDocumentMoniker": "Tema\\output\\errors.txt",
-              "ToolTip": "D:\\Compiler\\Tema\\Tema\\output\\errors.txt",
-              "RelativeToolTip": "Tema\\output\\errors.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-05T17:48:15.044Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 2\\Semestrul 1\\Limbaje Formale si Compilatoare\\Tema Obligatorii\\Tema 2\\Compiler\\Tema\\Tema\\Program.cs",
+              "RelativeDocumentMoniker": "Tema\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 2\\Semestrul 1\\Limbaje Formale si Compilatoare\\Tema Obligatorii\\Tema 2\\Compiler\\Tema\\Tema\\Program.cs",
+              "RelativeToolTip": "Tema\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwFkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T17:48:40.332Z",
+              "EditorCaption": ""
             }
           ]
         }

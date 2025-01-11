@@ -1,7 +1,6 @@
-int first = null;
-int myFirstVariable = 17;
-int mySecondVariable = 45;
-int myThirdVariable = 3;
-string myString = "";
-int temp = myFirstVariable+5;
-float myFloat = divideIntegers(myThirdVariable,myFirstVariable);
+myFirstVariable
+mySecondVariable
+myThirdVariable
+myString
+temp
+myFloat

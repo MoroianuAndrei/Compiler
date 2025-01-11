@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Compiler\\Tema\\Tema\\Tema.csproj": {}
+    "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 2\\Semestrul 1\\Limbaje Formale si Compilatoare\\Tema Obligatorii\\Tema 2\\Compiler\\Tema\\Tema\\Tema.csproj": {}
   },
   "projects": {
-    "D:\\Compiler\\Tema\\Tema\\Tema.csproj": {
+    "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 2\\Semestrul 1\\Limbaje Formale si Compilatoare\\Tema Obligatorii\\Tema 2\\Compiler\\Tema\\Tema\\Tema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Compiler\\Tema\\Tema\\Tema.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 2\\Semestrul 1\\Limbaje Formale si Compilatoare\\Tema Obligatorii\\Tema 2\\Compiler\\Tema\\Tema\\Tema.csproj",
         "projectName": "Tema",
-        "projectPath": "D:\\Compiler\\Tema\\Tema\\Tema.csproj",
-        "packagesPath": "C:\\Users\\Sebi\\.nuget\\packages\\",
-        "outputPath": "D:\\Compiler\\Tema\\Tema\\obj\\",
+        "projectPath": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 2\\Semestrul 1\\Limbaje Formale si Compilatoare\\Tema Obligatorii\\Tema 2\\Compiler\\Tema\\Tema\\Tema.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 2\\Semestrul 1\\Limbaje Formale si Compilatoare\\Tema Obligatorii\\Tema 2\\Compiler\\Tema\\Tema\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sebi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
