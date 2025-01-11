@@ -1,6 +1,5 @@
 ﻿int addIntegers(int first, int second)
 {
-int first;
 	 return first + second;
 }
 

@@ -84,7 +84,8 @@ public class BasicLanguageVisitor : BasicLanguageBaseVisitor<object>
             }
         }
 
-        WriteToFile("variables.txt", $"{type} {id} = {value ?? "null"};");
+        // Scriem doar numele variabilei în fișier
+        WriteToFile("variables.txt", id);
         return base.VisitDeclaration(context);
     }
 
