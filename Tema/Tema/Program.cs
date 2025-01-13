@@ -158,6 +158,21 @@ public class BasicLanguageVisitor : BasicLanguageBaseVisitor<object>
         return base.VisitIfStatement(context);
     }
 
+    public override object VisitForStatement(BasicLanguageParser.ForStatementContext context)
+    {
+        var line = context.Start.Line;
+        WriteToFile("control_structures.txt", $"for-statement on line {line}");
+        return base.VisitForStatement(context);
+    }
+
+    public override object VisitWhileStatement(BasicLanguageParser.WhileStatementContext context)
+    {
+        var line = context.Start.Line;
+        WriteToFile("control_structures.txt", $"while-statement on line {line}");
+        return base.VisitWhileStatement(context);
+    }
+
+
     public override object VisitProgram(BasicLanguageParser.ProgramContext context)
     {
         var tokens = string.Join(Environment.NewLine, context.children?.Select(c => c.GetText()) ?? new string[0]);

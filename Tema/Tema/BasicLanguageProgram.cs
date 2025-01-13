@@ -211,6 +211,60 @@
         return null;
     }
 
+    public override object VisitIfStatement(BasicLanguageParser.IfStatementContext context)
+    {
+        bool condition = (bool)Visit(context.expr()); // Evaluăm condiția
+
+        if (condition)
+        {
+            Visit(context.statement(0)); // Executăm prima ramură
+        }
+        else if (context.statement(1) != null)
+        {
+            Visit(context.statement(1)); // Executăm ramura else, dacă există
+        }
+
+        return null;
+    }
+
+
+    public override object VisitForStatement(BasicLanguageParser.ForStatementContext context)
+    {
+        // Inițializare
+        if (context.forInit() != null)
+        {
+            Visit(context.forInit());
+        }
+
+        // Condiție și corp
+        while (context.forCondition() == null || (bool)Visit(context.forCondition()))
+        {
+            Visit(context.statement()); // Executăm corpul ciclului
+
+            // Increment
+            if (context.forIncrement() != null)
+            {
+                Visit(context.forIncrement());
+            }
+        }
+
+        return null;
+    }
+
+    public override object VisitWhileStatement(BasicLanguageParser.WhileStatementContext context)
+    {
+        // Evaluăm condiția
+        while ((bool)Visit(context.expr()))
+        {
+            // Executăm corpul ciclului
+            Visit(context.statement());
+        }
+
+        return null;
+    }
+
+
+
     public override object VisitLiteral(BasicLanguageParser.LiteralContext context)
     {
         if (context.NUMBER() != null)
